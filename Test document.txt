@@ -1,0 +1,4 @@
+I am gonna try a new 
+let me try to revert back from local repo to sd and then to wd
+Heres the first step 
+now going to move to staging area
